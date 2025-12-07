@@ -1,2 +1,2 @@
 # Elite-Estate_project
-A web based platform which is designed to simplify a property transactions such as buying, selling and renting.
+A web-based platform designed to simplify property transactions including buying, selling and renting.
